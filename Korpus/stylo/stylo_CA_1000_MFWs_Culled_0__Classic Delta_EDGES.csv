@@ -1,0 +1,685 @@
+Source,Target,Weight,Type
+Anno_The Vamp_1,Lewis_The Monk_9,1,undirected
+Anno_The Vamp_1,Woolstencraft_Frankenstein_2,3,undirected
+Anno_The Vamp_1,Woolstencraft_The last Man_1,2,undirected
+Byron_Childe Harold's Pilgrimage_1,Byron_Childe Harold's Pilgrimage_2,6,undirected
+Byron_Childe Harold's Pilgrimage_1,Byron_Childe Harold's Pilgrimage_3,2,undirected
+Byron_Childe Harold's Pilgrimage_1,Byron_Childe Harold's Pilgrimage_4,2,undirected
+Byron_Childe Harold's Pilgrimage_1,Polidori_The fallen Angel_1,2,undirected
+Byron_Childe Harold's Pilgrimage_1,Woolstencraft_Prospertine und Midas_1,1,undirected
+Byron_Childe Harold's Pilgrimage_2,Byron_Childe Harold's Pilgrimage_1,6,undirected
+Byron_Childe Harold's Pilgrimage_2,Byron_Childe Harold's Pilgrimage_3,3,undirected
+Byron_Childe Harold's Pilgrimage_2,Byron_Childe Harold's Pilgrimage_4,4,undirected
+Byron_Childe Harold's Pilgrimage_2,Byron_Mazzepa_Dante_Beppo_1,2,undirected
+Byron_Childe Harold's Pilgrimage_2,Polidori_The fallen Angel_1,1,undirected
+Byron_Childe Harold's Pilgrimage_3,Byron_Childe Harold's Pilgrimage_1,2,undirected
+Byron_Childe Harold's Pilgrimage_3,Byron_Childe Harold's Pilgrimage_2,3,undirected
+Byron_Childe Harold's Pilgrimage_3,Byron_Childe Harold's Pilgrimage_4,6,undirected
+Byron_Childe Harold's Pilgrimage_3,Byron_Mazzepa_Dante_Beppo_1,1,undirected
+Byron_Childe Harold's Pilgrimage_4,Byron_Childe Harold's Pilgrimage_1,2,undirected
+Byron_Childe Harold's Pilgrimage_4,Byron_Childe Harold's Pilgrimage_2,4,undirected
+Byron_Childe Harold's Pilgrimage_4,Byron_Childe Harold's Pilgrimage_3,6,undirected
+Byron_Childe Harold's Pilgrimage_4,Byron_Mazzepa_Dante_Beppo_1,4,undirected
+Byron_Childe Harold's Pilgrimage_4,Polidori_The fallen Angel_1,3,undirected
+Byron_Don Juan_1,Byron_Don Juan_2,4,undirected
+Byron_Don Juan_1,Byron_Don Juan_14,3,undirected
+Byron_Don Juan_1,Byron_Mazzepa_Dante_Beppo_2,5,undirected
+Byron_Don Juan_2,Byron_Don Juan_1,4,undirected
+Byron_Don Juan_2,Byron_Don Juan_6,2,undirected
+Byron_Don Juan_2,Byron_Don Juan_10,1,undirected
+Byron_Don Juan_3,Byron_Don Juan_5,3,undirected
+Byron_Don Juan_3,Byron_Don Juan_6,2,undirected
+Byron_Don Juan_3,Byron_Don Juan_8,1,undirected
+Byron_Don Juan_4,Byron_Don Juan_5,6,undirected
+Byron_Don Juan_4,Byron_Don Juan_6,1,undirected
+Byron_Don Juan_4,Byron_Don Juan_7,2,undirected
+Byron_Don Juan_5,Byron_Don Juan_3,3,undirected
+Byron_Don Juan_5,Byron_Don Juan_4,6,undirected
+Byron_Don Juan_5,Byron_Don Juan_6,2,undirected
+Byron_Don Juan_5,Byron_Don Juan_8,1,undirected
+Byron_Don Juan_6,Byron_Don Juan_2,2,undirected
+Byron_Don Juan_6,Byron_Don Juan_3,2,undirected
+Byron_Don Juan_6,Byron_Don Juan_4,1,undirected
+Byron_Don Juan_6,Byron_Don Juan_5,2,undirected
+Byron_Don Juan_6,Byron_Don Juan_9,2,undirected
+Byron_Don Juan_6,Byron_Don Juan_11,5,undirected
+Byron_Don Juan_6,Byron_Don Juan_13,1,undirected
+Byron_Don Juan_6,Byron_Don Juan_15,4,undirected
+Byron_Don Juan_7,Byron_Don Juan_4,2,undirected
+Byron_Don Juan_7,Byron_Don Juan_8,6,undirected
+Byron_Don Juan_7,Byron_Don Juan_10,2,undirected
+Byron_Don Juan_7,Byron_Don Juan_11,1,undirected
+Byron_Don Juan_8,Byron_Don Juan_3,1,undirected
+Byron_Don Juan_8,Byron_Don Juan_5,1,undirected
+Byron_Don Juan_8,Byron_Don Juan_7,6,undirected
+Byron_Don Juan_8,Byron_Don Juan_9,2,undirected
+Byron_Don Juan_8,Byron_Don Juan_11,2,undirected
+Byron_Don Juan_8,Wallop_Hierogylphic Tales_1,3,undirected
+Byron_Don Juan_9,Byron_Don Juan_6,2,undirected
+Byron_Don Juan_9,Byron_Don Juan_8,2,undirected
+Byron_Don Juan_9,Byron_Don Juan_10,3,undirected
+Byron_Don Juan_10,Byron_Don Juan_2,1,undirected
+Byron_Don Juan_10,Byron_Don Juan_7,2,undirected
+Byron_Don Juan_10,Byron_Don Juan_9,3,undirected
+Byron_Don Juan_10,Byron_Don Juan_11,6,undirected
+Byron_Don Juan_10,Byron_Don Juan_12,5,undirected
+Byron_Don Juan_10,Byron_Don Juan_13,1,undirected
+Byron_Don Juan_10,Byron_Mazzepa_Dante_Beppo_2,1,undirected
+Byron_Don Juan_10,Wallop_Hierogylphic Tales_1,2,undirected
+Byron_Don Juan_11,Byron_Don Juan_6,5,undirected
+Byron_Don Juan_11,Byron_Don Juan_7,1,undirected
+Byron_Don Juan_11,Byron_Don Juan_8,2,undirected
+Byron_Don Juan_11,Byron_Don Juan_10,6,undirected
+Byron_Don Juan_11,Byron_Don Juan_13,2,undirected
+Byron_Don Juan_11,Wallop_Hierogylphic Tales_1,1,undirected
+Byron_Don Juan_12,Byron_Don Juan_10,5,undirected
+Byron_Don Juan_12,Byron_Don Juan_13,4,undirected
+Byron_Don Juan_12,Byron_Don Juan_14,2,undirected
+Byron_Don Juan_13,Byron_Don Juan_6,1,undirected
+Byron_Don Juan_13,Byron_Don Juan_10,1,undirected
+Byron_Don Juan_13,Byron_Don Juan_11,2,undirected
+Byron_Don Juan_13,Byron_Don Juan_12,4,undirected
+Byron_Don Juan_13,Byron_Don Juan_14,6,undirected
+Byron_Don Juan_13,Byron_Don Juan_15,1,undirected
+Byron_Don Juan_13,Byron_Mazzepa_Dante_Beppo_2,2,undirected
+Byron_Don Juan_14,Byron_Don Juan_1,3,undirected
+Byron_Don Juan_14,Byron_Don Juan_12,2,undirected
+Byron_Don Juan_14,Byron_Don Juan_13,6,undirected
+Byron_Don Juan_14,Byron_Don Juan_15,5,undirected
+Byron_Don Juan_15,Byron_Don Juan_6,4,undirected
+Byron_Don Juan_15,Byron_Don Juan_13,1,undirected
+Byron_Don Juan_15,Byron_Don Juan_14,5,undirected
+Byron_Mazzepa_Dante_Beppo_1,Byron_Childe Harold's Pilgrimage_2,2,undirected
+Byron_Mazzepa_Dante_Beppo_1,Byron_Childe Harold's Pilgrimage_3,1,undirected
+Byron_Mazzepa_Dante_Beppo_1,Byron_Childe Harold's Pilgrimage_4,4,undirected
+Byron_Mazzepa_Dante_Beppo_2,Byron_Don Juan_1,5,undirected
+Byron_Mazzepa_Dante_Beppo_2,Byron_Don Juan_10,1,undirected
+Byron_Mazzepa_Dante_Beppo_2,Byron_Don Juan_13,2,undirected
+Keats_Endymion_Lamia_1,Keats_Endymion_Lamia_2,6,undirected
+Keats_Endymion_Lamia_1,Keats_Endymion_Lamia_3,3,undirected
+Keats_Endymion_Lamia_1,Keats_Endymion_Lamia_4,2,undirected
+Keats_Endymion_Lamia_1,Woolstencraft_Prospertine und Midas_1,3,undirected
+Keats_Endymion_Lamia_2,Keats_Endymion_Lamia_1,6,undirected
+Keats_Endymion_Lamia_2,Keats_Endymion_Lamia_3,4,undirected
+Keats_Endymion_Lamia_2,Keats_Endymion_Lamia_4,3,undirected
+Keats_Endymion_Lamia_3,Keats_Endymion_Lamia_1,3,undirected
+Keats_Endymion_Lamia_3,Keats_Endymion_Lamia_2,4,undirected
+Keats_Endymion_Lamia_3,Keats_Endymion_Lamia_4,6,undirected
+Keats_Endymion_Lamia_4,Keats_Endymion_Lamia_1,2,undirected
+Keats_Endymion_Lamia_4,Keats_Endymion_Lamia_2,3,undirected
+Keats_Endymion_Lamia_4,Keats_Endymion_Lamia_3,6,undirected
+Keats_Endymion_Lamia_4,Woolstencraft_Prospertine und Midas_1,2,undirected
+Lamb_Glenarvon 1_1,Lamb_Glenarvon 1_2,1,undirected
+Lamb_Glenarvon 1_1,Lamb_Glenarvon 1_3,3,undirected
+Lamb_Glenarvon 1_1,Lamb_Glenarvon 2_2,2,undirected
+Lamb_Glenarvon 1_1,Lamb_Glenarvon 3_4,1,undirected
+Lamb_Glenarvon 1_1,Lamb_Glenarvon 3_5,1,undirected
+Lamb_Glenarvon 1_1,Shelley_St. Ivrene_3,1,undirected
+Lamb_Glenarvon 1_2,Lamb_Glenarvon 1_1,1,undirected
+Lamb_Glenarvon 1_2,Lamb_Glenarvon 1_3,6,undirected
+Lamb_Glenarvon 1_2,Lamb_Glenarvon 1_4,2,undirected
+Lamb_Glenarvon 1_3,Lamb_Glenarvon 1_1,3,undirected
+Lamb_Glenarvon 1_3,Lamb_Glenarvon 1_2,6,undirected
+Lamb_Glenarvon 1_3,Lamb_Glenarvon 1_4,4,undirected
+Lamb_Glenarvon 1_3,Lamb_Glenarvon 1_5,3,undirected
+Lamb_Glenarvon 1_3,Lamb_Glenarvon 2_2,1,undirected
+Lamb_Glenarvon 1_3,Lamb_Glenarvon 2_3,1,undirected
+Lamb_Glenarvon 1_4,Lamb_Glenarvon 1_2,2,undirected
+Lamb_Glenarvon 1_4,Lamb_Glenarvon 1_3,4,undirected
+Lamb_Glenarvon 1_4,Lamb_Glenarvon 1_5,6,undirected
+Lamb_Glenarvon 1_4,Lamb_Glenarvon 2_1,1,undirected
+Lamb_Glenarvon 1_4,Lamb_Glenarvon 2_3,3,undirected
+Lamb_Glenarvon 1_5,Lamb_Glenarvon 1_3,3,undirected
+Lamb_Glenarvon 1_5,Lamb_Glenarvon 1_4,6,undirected
+Lamb_Glenarvon 1_5,Lamb_Glenarvon 2_3,1,undirected
+Lamb_Glenarvon 2_1,Lamb_Glenarvon 1_4,1,undirected
+Lamb_Glenarvon 2_1,Lamb_Glenarvon 2_2,5,undirected
+Lamb_Glenarvon 2_1,Lamb_Glenarvon 3_4,3,undirected
+Lamb_Glenarvon 2_2,Lamb_Glenarvon 1_1,2,undirected
+Lamb_Glenarvon 2_2,Lamb_Glenarvon 1_3,1,undirected
+Lamb_Glenarvon 2_2,Lamb_Glenarvon 2_1,5,undirected
+Lamb_Glenarvon 2_2,Lamb_Glenarvon 2_3,2,undirected
+Lamb_Glenarvon 2_2,Lamb_Glenarvon 3_5,2,undirected
+Lamb_Glenarvon 2_3,Lamb_Glenarvon 1_3,1,undirected
+Lamb_Glenarvon 2_3,Lamb_Glenarvon 1_4,3,undirected
+Lamb_Glenarvon 2_3,Lamb_Glenarvon 1_5,1,undirected
+Lamb_Glenarvon 2_3,Lamb_Glenarvon 2_2,2,undirected
+Lamb_Glenarvon 2_3,Lamb_Glenarvon 2_4,5,undirected
+Lamb_Glenarvon 2_4,Lamb_Glenarvon 2_3,5,undirected
+Lamb_Glenarvon 2_4,Lamb_Glenarvon 2_5,6,undirected
+Lamb_Glenarvon 2_4,Lamb_Glenarvon 2_7,1,undirected
+Lamb_Glenarvon 2_5,Lamb_Glenarvon 2_4,6,undirected
+Lamb_Glenarvon 2_5,Lamb_Glenarvon 2_6,5,undirected
+Lamb_Glenarvon 2_5,Lamb_Glenarvon 2_7,4,undirected
+Lamb_Glenarvon 2_5,Lamb_Glenarvon 3_1,2,undirected
+Lamb_Glenarvon 2_5,Lamb_Glenarvon 3_2,2,undirected
+Lamb_Glenarvon 2_5,Lamb_Glenarvon 3_3,2,undirected
+Lamb_Glenarvon 2_6,Lamb_Glenarvon 2_5,5,undirected
+Lamb_Glenarvon 2_6,Lamb_Glenarvon 2_7,2,undirected
+Lamb_Glenarvon 2_6,Lamb_Glenarvon 3_3,1,undirected
+Lamb_Glenarvon 2_7,Lamb_Glenarvon 2_4,1,undirected
+Lamb_Glenarvon 2_7,Lamb_Glenarvon 2_5,4,undirected
+Lamb_Glenarvon 2_7,Lamb_Glenarvon 2_6,2,undirected
+Lamb_Glenarvon 2_7,Lamb_Glenarvon 3_3,5,undirected
+Lamb_Glenarvon 2_7,Lamb_Glenarvon 3_4,4,undirected
+Lamb_Glenarvon 3_1,Lamb_Glenarvon 2_5,2,undirected
+Lamb_Glenarvon 3_1,Lamb_Glenarvon 3_2,6,undirected
+Lamb_Glenarvon 3_1,Lamb_Glenarvon 3_3,2,undirected
+Lamb_Glenarvon 3_2,Lamb_Glenarvon 2_5,2,undirected
+Lamb_Glenarvon 3_2,Lamb_Glenarvon 3_1,6,undirected
+Lamb_Glenarvon 3_2,Lamb_Glenarvon 3_4,3,undirected
+Lamb_Glenarvon 3_3,Lamb_Glenarvon 2_5,2,undirected
+Lamb_Glenarvon 3_3,Lamb_Glenarvon 2_6,1,undirected
+Lamb_Glenarvon 3_3,Lamb_Glenarvon 2_7,5,undirected
+Lamb_Glenarvon 3_3,Lamb_Glenarvon 3_1,2,undirected
+Lamb_Glenarvon 3_3,Lamb_Glenarvon 3_4,1,undirected
+Lamb_Glenarvon 3_4,Lamb_Glenarvon 1_1,1,undirected
+Lamb_Glenarvon 3_4,Lamb_Glenarvon 2_1,3,undirected
+Lamb_Glenarvon 3_4,Lamb_Glenarvon 2_7,4,undirected
+Lamb_Glenarvon 3_4,Lamb_Glenarvon 3_2,3,undirected
+Lamb_Glenarvon 3_4,Lamb_Glenarvon 3_3,1,undirected
+Lamb_Glenarvon 3_4,Lamb_Glenarvon 3_5,3,undirected
+Lamb_Glenarvon 3_4,Wallop_the castle of Odranto 2_1,1,undirected
+Lamb_Glenarvon 3_5,Lamb_Glenarvon 1_1,1,undirected
+Lamb_Glenarvon 3_5,Lamb_Glenarvon 2_2,2,undirected
+Lamb_Glenarvon 3_5,Lamb_Glenarvon 3_4,3,undirected
+Lewis_The Monk_1,Lewis_The Monk_4,1,undirected
+Lewis_The Monk_1,Lewis_The Monk_9,3,undirected
+Lewis_The Monk_1,Lewis_The Monk_10,2,undirected
+Lewis_The Monk_2,Lewis_The Monk_3,6,undirected
+Lewis_The Monk_2,Lewis_The Monk_9,2,undirected
+Lewis_The Monk_2,Lewis_The Monk_10,1,undirected
+Lewis_The Monk_3,Lewis_The Monk_2,6,undirected
+Lewis_The Monk_3,Lewis_The Monk_9,1,undirected
+Lewis_The Monk_3,Lewis_The Monk_10,2,undirected
+Lewis_The Monk_4,Lewis_The Monk_1,1,undirected
+Lewis_The Monk_4,Lewis_The Monk_5,5,undirected
+Lewis_The Monk_4,Lewis_The Monk_7,2,undirected
+Lewis_The Monk_4,Lewis_The Monk_8,1,undirected
+Lewis_The Monk_4,Wallop_the castle of Odranto_1,1,undirected
+Lewis_The Monk_5,Lewis_The Monk_4,5,undirected
+Lewis_The Monk_5,Lewis_The Monk_6,3,undirected
+Lewis_The Monk_5,Lewis_The Monk_7,6,undirected
+Lewis_The Monk_5,Wallop_the castle of Odranto 2_2,1,undirected
+Lewis_The Monk_6,Lewis_The Monk_5,3,undirected
+Lewis_The Monk_6,Lewis_The Monk_7,4,undirected
+Lewis_The Monk_6,Lewis_The Monk_12,1,undirected
+Lewis_The Monk_7,Lewis_The Monk_4,2,undirected
+Lewis_The Monk_7,Lewis_The Monk_5,6,undirected
+Lewis_The Monk_7,Lewis_The Monk_6,4,undirected
+Lewis_The Monk_7,Lewis_The Monk_8,5,undirected
+Lewis_The Monk_8,Lewis_The Monk_4,1,undirected
+Lewis_The Monk_8,Lewis_The Monk_7,5,undirected
+Lewis_The Monk_8,Lewis_The Monk_9,2,undirected
+Lewis_The Monk_8,Lewis_The Monk_11,1,undirected
+Lewis_The Monk_9,Anno_The Vamp_1,1,undirected
+Lewis_The Monk_9,Lewis_The Monk_1,3,undirected
+Lewis_The Monk_9,Lewis_The Monk_2,2,undirected
+Lewis_The Monk_9,Lewis_The Monk_3,1,undirected
+Lewis_The Monk_9,Lewis_The Monk_8,2,undirected
+Lewis_The Monk_9,Lewis_The Monk_10,6,undirected
+Lewis_The Monk_9,Lewis_The Monk_11,4,undirected
+Lewis_The Monk_9,Lewis_The Monk_12,1,undirected
+Lewis_The Monk_9,Lewis_The Monk_13,3,undirected
+Lewis_The Monk_9,Lewis_The Monk_15,1,undirected
+Lewis_The Monk_9,Lewis_The Monk_16,1,undirected
+Lewis_The Monk_9,Shelley_St. Ivrene_2,1,undirected
+Lewis_The Monk_10,Lewis_The Monk_1,2,undirected
+Lewis_The Monk_10,Lewis_The Monk_2,1,undirected
+Lewis_The Monk_10,Lewis_The Monk_3,2,undirected
+Lewis_The Monk_10,Lewis_The Monk_9,6,undirected
+Lewis_The Monk_10,Lewis_The Monk_11,3,undirected
+Lewis_The Monk_10,Lewis_The Monk_12,2,undirected
+Lewis_The Monk_10,Lewis_The Monk_14,3,undirected
+Lewis_The Monk_11,Lewis_The Monk_8,1,undirected
+Lewis_The Monk_11,Lewis_The Monk_9,4,undirected
+Lewis_The Monk_11,Lewis_The Monk_10,3,undirected
+Lewis_The Monk_11,Lewis_The Monk_13,6,undirected
+Lewis_The Monk_11,Lewis_The Monk_14,1,undirected
+Lewis_The Monk_12,Lewis_The Monk_6,1,undirected
+Lewis_The Monk_12,Lewis_The Monk_9,1,undirected
+Lewis_The Monk_12,Lewis_The Monk_10,2,undirected
+Lewis_The Monk_12,Lewis_The Monk_13,3,undirected
+Lewis_The Monk_13,Lewis_The Monk_9,3,undirected
+Lewis_The Monk_13,Lewis_The Monk_11,6,undirected
+Lewis_The Monk_13,Lewis_The Monk_12,3,undirected
+Lewis_The Monk_13,Lewis_The Monk_15,1,undirected
+Lewis_The Monk_13,Lewis_The Monk_16,2,undirected
+Lewis_The Monk_14,Lewis_The Monk_10,3,undirected
+Lewis_The Monk_14,Lewis_The Monk_11,1,undirected
+Lewis_The Monk_14,Lewis_The Monk_15,5,undirected
+Lewis_The Monk_15,Lewis_The Monk_9,1,undirected
+Lewis_The Monk_15,Lewis_The Monk_13,1,undirected
+Lewis_The Monk_15,Lewis_The Monk_14,5,undirected
+Lewis_The Monk_15,Lewis_The Monk_16,6,undirected
+Lewis_The Monk_16,Lewis_The Monk_9,1,undirected
+Lewis_The Monk_16,Lewis_The Monk_13,2,undirected
+Lewis_The Monk_16,Lewis_The Monk_15,6,undirected
+Polidori_diary_1,Polidori_diary_2,5,undirected
+Polidori_diary_1,Polidori_diary_3,4,undirected
+Polidori_diary_1,Wallop_Hierogylphic Tales_1,1,undirected
+Polidori_diary_2,Polidori_diary_1,5,undirected
+Polidori_diary_2,Polidori_diary_3,6,undirected
+Polidori_diary_2,Wallop_Hierogylphic Tales_1,1,undirected
+Polidori_diary_3,Polidori_diary_1,4,undirected
+Polidori_diary_3,Polidori_diary_2,6,undirected
+Polidori_diary_3,Wallop_Hierogylphic Tales_1,1,undirected
+Polidori_The fallen Angel_1,Byron_Childe Harold's Pilgrimage_1,2,undirected
+Polidori_The fallen Angel_1,Byron_Childe Harold's Pilgrimage_2,1,undirected
+Polidori_The fallen Angel_1,Byron_Childe Harold's Pilgrimage_4,3,undirected
+Radcliffe_A sicilian Romance_1,Radcliffe_A sicilian Romance_2,5,undirected
+Radcliffe_A sicilian Romance_1,Radcliffe_A sicilian Romance_5,2,undirected
+Radcliffe_A sicilian Romance_1,Radcliffe_the myteries of Udolpho 1_7,1,undirected
+Radcliffe_A sicilian Romance_2,Radcliffe_A sicilian Romance_1,5,undirected
+Radcliffe_A sicilian Romance_2,Radcliffe_A sicilian Romance_3,4,undirected
+Radcliffe_A sicilian Romance_2,Radcliffe_A sicilian Romance_4,1,undirected
+Radcliffe_A sicilian Romance_2,Radcliffe_A sicilian Romance_5,5,undirected
+Radcliffe_A sicilian Romance_2,Radcliffe_A sicilian Romance_6,1,undirected
+Radcliffe_A sicilian Romance_2,Radcliffe_A sicilian Romance_7,1,undirected
+Radcliffe_A sicilian Romance_2,Radcliffe_The myteries of Udolpho 4_8,1,undirected
+Radcliffe_A sicilian Romance_3,Radcliffe_A sicilian Romance_2,4,undirected
+Radcliffe_A sicilian Romance_3,Radcliffe_A sicilian Romance_5,2,undirected
+Radcliffe_A sicilian Romance_3,Radcliffe_A sicilian Romance_6,4,undirected
+Radcliffe_A sicilian Romance_4,Radcliffe_A sicilian Romance_2,1,undirected
+Radcliffe_A sicilian Romance_4,Radcliffe_A sicilian Romance_5,2,undirected
+Radcliffe_A sicilian Romance_4,Radcliffe_A sicilian Romance_7,6,undirected
+Radcliffe_A sicilian Romance_5,Radcliffe_A sicilian Romance_1,2,undirected
+Radcliffe_A sicilian Romance_5,Radcliffe_A sicilian Romance_2,5,undirected
+Radcliffe_A sicilian Romance_5,Radcliffe_A sicilian Romance_3,2,undirected
+Radcliffe_A sicilian Romance_5,Radcliffe_A sicilian Romance_4,2,undirected
+Radcliffe_A sicilian Romance_5,Radcliffe_A sicilian Romance_6,6,undirected
+Radcliffe_A sicilian Romance_6,Radcliffe_A sicilian Romance_2,1,undirected
+Radcliffe_A sicilian Romance_6,Radcliffe_A sicilian Romance_3,4,undirected
+Radcliffe_A sicilian Romance_6,Radcliffe_A sicilian Romance_5,6,undirected
+Radcliffe_A sicilian Romance_6,Radcliffe_A sicilian Romance_7,2,undirected
+Radcliffe_A sicilian Romance_7,Radcliffe_A sicilian Romance_2,1,undirected
+Radcliffe_A sicilian Romance_7,Radcliffe_A sicilian Romance_4,6,undirected
+Radcliffe_A sicilian Romance_7,Radcliffe_A sicilian Romance_6,2,undirected
+Radcliffe_the mysteries of Udolpho 3_1,Radcliffe_the mysteries of Udolpho 3_2,5,undirected
+Radcliffe_the mysteries of Udolpho 3_1,Radcliffe_the mysteries of Udolpho 3_4,1,undirected
+Radcliffe_the mysteries of Udolpho 3_1,Radcliffe_the mysteries of Udolpho 3_5,4,undirected
+Radcliffe_the mysteries of Udolpho 3_1,Radcliffe_the mysteries of Udolpho 3_6,2,undirected
+Radcliffe_the mysteries of Udolpho 3_1,Radcliffe_The Myteries of Udolphu 2_4,1,undirected
+Radcliffe_the mysteries of Udolpho 3_1,Radcliffe_The Myteries of Udolphu 2_5,1,undirected
+Radcliffe_the mysteries of Udolpho 3_1,Radcliffe_The Myteries of Udolphu 2_8,1,undirected
+Radcliffe_the mysteries of Udolpho 3_1,Radcliffe_The Myteries of Udolphu 2_9,6,undirected
+Radcliffe_the mysteries of Udolpho 3_2,Radcliffe_the mysteries of Udolpho 3_1,5,undirected
+Radcliffe_the mysteries of Udolpho 3_2,Radcliffe_The Myteries of Udolphu 2_6,1,undirected
+Radcliffe_the mysteries of Udolpho 3_2,Radcliffe_The Myteries of Udolphu 2_8,1,undirected
+Radcliffe_the mysteries of Udolpho 3_2,Radcliffe_The Myteries of Udolphu 2_9,2,undirected
+Radcliffe_the mysteries of Udolpho 3_3,Radcliffe_the mysteries of Udolpho 3_6,1,undirected
+Radcliffe_the mysteries of Udolpho 3_3,Radcliffe_The myteries of Udolpho 4_6,1,undirected
+Radcliffe_the mysteries of Udolpho 3_3,Radcliffe_The myteries of Udolpho 4_7,1,undirected
+Radcliffe_the mysteries of Udolpho 3_3,Radcliffe_The Myteries of Udolphu 2_6,2,undirected
+Radcliffe_the mysteries of Udolpho 3_3,Radcliffe_The Myteries of Udolphu 2_7,5,undirected
+Radcliffe_the mysteries of Udolpho 3_3,Radcliffe_The Myteries of Udolphu 2_8,1,undirected
+Radcliffe_the mysteries of Udolpho 3_3,Radcliffe_The Myteries of Udolphu 2_9,3,undirected
+Radcliffe_the mysteries of Udolpho 3_4,Radcliffe_the mysteries of Udolpho 3_1,1,undirected
+Radcliffe_the mysteries of Udolpho 3_4,Radcliffe_the mysteries of Udolpho 3_5,3,undirected
+Radcliffe_the mysteries of Udolpho 3_4,Radcliffe_the myteries of Udolpho 1_2,3,undirected
+Radcliffe_the mysteries of Udolpho 3_4,Radcliffe_The Myteries of Udolphu 2_4,2,undirected
+Radcliffe_the mysteries of Udolpho 3_5,Radcliffe_the mysteries of Udolpho 3_1,4,undirected
+Radcliffe_the mysteries of Udolpho 3_5,Radcliffe_the mysteries of Udolpho 3_4,3,undirected
+Radcliffe_the mysteries of Udolpho 3_5,Radcliffe_the mysteries of Udolpho 3_6,5,undirected
+Radcliffe_the mysteries of Udolpho 3_6,Radcliffe_the mysteries of Udolpho 3_1,2,undirected
+Radcliffe_the mysteries of Udolpho 3_6,Radcliffe_the mysteries of Udolpho 3_3,1,undirected
+Radcliffe_the mysteries of Udolpho 3_6,Radcliffe_the mysteries of Udolpho 3_5,5,undirected
+Radcliffe_the mysteries of Udolpho 3_7,Radcliffe_the mysteries of Udolpho 3_8,6,undirected
+Radcliffe_the mysteries of Udolpho 3_7,Radcliffe_the myteries of Udolpho 1_1,2,undirected
+Radcliffe_the mysteries of Udolpho 3_7,Radcliffe_The myteries of Udolpho 4_5,2,undirected
+Radcliffe_the mysteries of Udolpho 3_7,Radcliffe_The Myteries of Udolphu 2_1,2,undirected
+Radcliffe_the mysteries of Udolpho 3_8,Radcliffe_the mysteries of Udolpho 3_7,6,undirected
+Radcliffe_the mysteries of Udolpho 3_8,Radcliffe_the myteries of Udolpho 1_3,1,undirected
+Radcliffe_the mysteries of Udolpho 3_8,Radcliffe_The myteries of Udolpho 4_5,3,undirected
+Radcliffe_the myteries of Udolpho 1_1,Radcliffe_the mysteries of Udolpho 3_7,2,undirected
+Radcliffe_the myteries of Udolpho 1_1,Radcliffe_the myteries of Udolpho 1_2,3,undirected
+Radcliffe_the myteries of Udolpho 1_1,Radcliffe_the myteries of Udolpho 1_3,4,undirected
+Radcliffe_the myteries of Udolpho 1_2,Radcliffe_the mysteries of Udolpho 3_4,3,undirected
+Radcliffe_the myteries of Udolpho 1_2,Radcliffe_the myteries of Udolpho 1_1,3,undirected
+Radcliffe_the myteries of Udolpho 1_2,Radcliffe_the myteries of Udolpho 1_3,6,undirected
+Radcliffe_the myteries of Udolpho 1_2,Radcliffe_the myteries of Udolpho 1_4,2,undirected
+Radcliffe_the myteries of Udolpho 1_2,Radcliffe_The myteries of Udolpho 4_5,5,undirected
+Radcliffe_the myteries of Udolpho 1_3,Radcliffe_the mysteries of Udolpho 3_8,1,undirected
+Radcliffe_the myteries of Udolpho 1_3,Radcliffe_the myteries of Udolpho 1_1,4,undirected
+Radcliffe_the myteries of Udolpho 1_3,Radcliffe_the myteries of Udolpho 1_2,6,undirected
+Radcliffe_the myteries of Udolpho 1_3,Radcliffe_the myteries of Udolpho 1_4,1,undirected
+Radcliffe_the myteries of Udolpho 1_3,Radcliffe_The myteries of Udolpho 4_5,4,undirected
+Radcliffe_the myteries of Udolpho 1_3,Radcliffe_The Myteries of Udolphu 2_1,3,undirected
+Radcliffe_the myteries of Udolpho 1_4,Radcliffe_the myteries of Udolpho 1_2,2,undirected
+Radcliffe_the myteries of Udolpho 1_4,Radcliffe_the myteries of Udolpho 1_3,1,undirected
+Radcliffe_the myteries of Udolpho 1_4,Radcliffe_the myteries of Udolpho 1_5,5,undirected
+Radcliffe_the myteries of Udolpho 1_5,Radcliffe_the myteries of Udolpho 1_4,5,undirected
+Radcliffe_the myteries of Udolpho 1_5,Radcliffe_the myteries of Udolpho 1_6,4,undirected
+Radcliffe_the myteries of Udolpho 1_5,Radcliffe_The myteries of Udolpho 4_4,1,undirected
+Radcliffe_the myteries of Udolpho 1_6,Radcliffe_the myteries of Udolpho 1_5,4,undirected
+Radcliffe_the myteries of Udolpho 1_6,Radcliffe_the myteries of Udolpho 1_7,5,undirected
+Radcliffe_the myteries of Udolpho 1_6,Radcliffe_The myteries of Udolpho 4_4,2,undirected
+Radcliffe_the myteries of Udolpho 1_7,Radcliffe_A sicilian Romance_1,1,undirected
+Radcliffe_the myteries of Udolpho 1_7,Radcliffe_the myteries of Udolpho 1_6,5,undirected
+Radcliffe_the myteries of Udolpho 1_7,Radcliffe_the myteries of Udolpho 1_8,6,undirected
+Radcliffe_the myteries of Udolpho 1_7,Radcliffe_The myteries of Udolpho 4_4,2,undirected
+Radcliffe_the myteries of Udolpho 1_7,Radcliffe_The Myteries of Udolphu 2_2,1,undirected
+Radcliffe_the myteries of Udolpho 1_7,Radcliffe_The Myteries of Udolphu 2_3,1,undirected
+Radcliffe_the myteries of Udolpho 1_7,Radcliffe_The Myteries of Udolphu 2_7,1,undirected
+Radcliffe_the myteries of Udolpho 1_8,Radcliffe_the myteries of Udolpho 1_7,6,undirected
+Radcliffe_the myteries of Udolpho 1_8,Radcliffe_The myteries of Udolpho 4_1,3,undirected
+Radcliffe_the myteries of Udolpho 1_8,Radcliffe_The Myteries of Udolphu 2_2,4,undirected
+Radcliffe_the myteries of Udolpho 1_8,Radcliffe_The Myteries of Udolphu 2_3,3,undirected
+Radcliffe_The myteries of Udolpho 4_1,Radcliffe_the myteries of Udolpho 1_8,3,undirected
+Radcliffe_The myteries of Udolpho 4_1,Radcliffe_The myteries of Udolpho 4_4,1,undirected
+Radcliffe_The myteries of Udolpho 4_1,Radcliffe_The myteries of Udolpho 4_7,2,undirected
+Radcliffe_The myteries of Udolpho 4_2,Radcliffe_The myteries of Udolpho 4_3,3,undirected
+Radcliffe_The myteries of Udolpho 4_2,Radcliffe_The myteries of Udolpho 4_7,1,undirected
+Radcliffe_The myteries of Udolpho 4_2,Radcliffe_The Myteries of Udolphu 2_5,3,undirected
+Radcliffe_The myteries of Udolpho 4_3,Radcliffe_The myteries of Udolpho 4_2,3,undirected
+Radcliffe_The myteries of Udolpho 4_3,Radcliffe_The myteries of Udolpho 4_4,6,undirected
+Radcliffe_The myteries of Udolpho 4_3,Radcliffe_The myteries of Udolpho 4_7,4,undirected
+Radcliffe_The myteries of Udolpho 4_3,Radcliffe_The myteries of Udolpho 4_8,3,undirected
+Radcliffe_The myteries of Udolpho 4_4,Radcliffe_the myteries of Udolpho 1_5,1,undirected
+Radcliffe_The myteries of Udolpho 4_4,Radcliffe_the myteries of Udolpho 1_6,2,undirected
+Radcliffe_The myteries of Udolpho 4_4,Radcliffe_the myteries of Udolpho 1_7,2,undirected
+Radcliffe_The myteries of Udolpho 4_4,Radcliffe_The myteries of Udolpho 4_1,1,undirected
+Radcliffe_The myteries of Udolpho 4_4,Radcliffe_The myteries of Udolpho 4_3,6,undirected
+Radcliffe_The myteries of Udolpho 4_4,Radcliffe_The myteries of Udolpho 4_7,5,undirected
+Radcliffe_The myteries of Udolpho 4_5,Radcliffe_the mysteries of Udolpho 3_7,2,undirected
+Radcliffe_The myteries of Udolpho 4_5,Radcliffe_the mysteries of Udolpho 3_8,3,undirected
+Radcliffe_The myteries of Udolpho 4_5,Radcliffe_the myteries of Udolpho 1_2,5,undirected
+Radcliffe_The myteries of Udolpho 4_5,Radcliffe_the myteries of Udolpho 1_3,4,undirected
+Radcliffe_The myteries of Udolpho 4_5,Radcliffe_The myteries of Udolpho 4_6,3,undirected
+Radcliffe_The myteries of Udolpho 4_5,Radcliffe_The Myteries of Udolphu 2_1,1,undirected
+Radcliffe_The myteries of Udolpho 4_6,Radcliffe_the mysteries of Udolpho 3_3,1,undirected
+Radcliffe_The myteries of Udolpho 4_6,Radcliffe_The myteries of Udolpho 4_5,3,undirected
+Radcliffe_The myteries of Udolpho 4_6,Radcliffe_The myteries of Udolpho 4_7,2,undirected
+Radcliffe_The myteries of Udolpho 4_7,Radcliffe_the mysteries of Udolpho 3_3,1,undirected
+Radcliffe_The myteries of Udolpho 4_7,Radcliffe_The myteries of Udolpho 4_1,2,undirected
+Radcliffe_The myteries of Udolpho 4_7,Radcliffe_The myteries of Udolpho 4_2,1,undirected
+Radcliffe_The myteries of Udolpho 4_7,Radcliffe_The myteries of Udolpho 4_3,4,undirected
+Radcliffe_The myteries of Udolpho 4_7,Radcliffe_The myteries of Udolpho 4_4,5,undirected
+Radcliffe_The myteries of Udolpho 4_7,Radcliffe_The myteries of Udolpho 4_6,2,undirected
+Radcliffe_The myteries of Udolpho 4_8,Radcliffe_A sicilian Romance_2,1,undirected
+Radcliffe_The myteries of Udolpho 4_8,Radcliffe_The myteries of Udolpho 4_3,3,undirected
+Radcliffe_The myteries of Udolpho 4_8,Radcliffe_The Myteries of Udolphu 2_2,2,undirected
+Radcliffe_The Myteries of Udolphu 2_1,Radcliffe_the mysteries of Udolpho 3_7,2,undirected
+Radcliffe_The Myteries of Udolphu 2_1,Radcliffe_the myteries of Udolpho 1_3,3,undirected
+Radcliffe_The Myteries of Udolphu 2_1,Radcliffe_The myteries of Udolpho 4_5,1,undirected
+Radcliffe_The Myteries of Udolphu 2_2,Radcliffe_the myteries of Udolpho 1_7,1,undirected
+Radcliffe_The Myteries of Udolphu 2_2,Radcliffe_the myteries of Udolpho 1_8,4,undirected
+Radcliffe_The Myteries of Udolphu 2_2,Radcliffe_The myteries of Udolpho 4_8,2,undirected
+Radcliffe_The Myteries of Udolphu 2_2,Radcliffe_The Myteries of Udolphu 2_3,6,undirected
+Radcliffe_The Myteries of Udolphu 2_2,Radcliffe_The Myteries of Udolphu 2_7,2,undirected
+Radcliffe_The Myteries of Udolphu 2_3,Radcliffe_the myteries of Udolpho 1_7,1,undirected
+Radcliffe_The Myteries of Udolphu 2_3,Radcliffe_the myteries of Udolpho 1_8,3,undirected
+Radcliffe_The Myteries of Udolphu 2_3,Radcliffe_The Myteries of Udolphu 2_2,6,undirected
+Radcliffe_The Myteries of Udolphu 2_4,Radcliffe_the mysteries of Udolpho 3_1,1,undirected
+Radcliffe_The Myteries of Udolphu 2_4,Radcliffe_the mysteries of Udolpho 3_4,2,undirected
+Radcliffe_The Myteries of Udolphu 2_4,Radcliffe_The Myteries of Udolphu 2_5,3,undirected
+Radcliffe_The Myteries of Udolphu 2_5,Radcliffe_the mysteries of Udolpho 3_1,1,undirected
+Radcliffe_The Myteries of Udolphu 2_5,Radcliffe_The myteries of Udolpho 4_2,3,undirected
+Radcliffe_The Myteries of Udolphu 2_5,Radcliffe_The Myteries of Udolphu 2_4,3,undirected
+Radcliffe_The Myteries of Udolphu 2_5,Radcliffe_The Myteries of Udolphu 2_8,4,undirected
+Radcliffe_The Myteries of Udolphu 2_5,Radcliffe_The Myteries of Udolphu 2_9,5,undirected
+Radcliffe_The Myteries of Udolphu 2_6,Radcliffe_the mysteries of Udolpho 3_2,1,undirected
+Radcliffe_The Myteries of Udolphu 2_6,Radcliffe_the mysteries of Udolpho 3_3,2,undirected
+Radcliffe_The Myteries of Udolphu 2_6,Radcliffe_The Myteries of Udolphu 2_8,3,undirected
+Radcliffe_The Myteries of Udolphu 2_7,Radcliffe_the mysteries of Udolpho 3_3,5,undirected
+Radcliffe_The Myteries of Udolphu 2_7,Radcliffe_the myteries of Udolpho 1_7,1,undirected
+Radcliffe_The Myteries of Udolphu 2_7,Radcliffe_The Myteries of Udolphu 2_2,2,undirected
+Radcliffe_The Myteries of Udolphu 2_8,Radcliffe_the mysteries of Udolpho 3_1,1,undirected
+Radcliffe_The Myteries of Udolphu 2_8,Radcliffe_the mysteries of Udolpho 3_2,1,undirected
+Radcliffe_The Myteries of Udolphu 2_8,Radcliffe_the mysteries of Udolpho 3_3,1,undirected
+Radcliffe_The Myteries of Udolphu 2_8,Radcliffe_The Myteries of Udolphu 2_5,4,undirected
+Radcliffe_The Myteries of Udolphu 2_8,Radcliffe_The Myteries of Udolphu 2_6,3,undirected
+Radcliffe_The Myteries of Udolphu 2_8,Radcliffe_The Myteries of Udolphu 2_9,4,undirected
+Radcliffe_The Myteries of Udolphu 2_9,Radcliffe_the mysteries of Udolpho 3_1,6,undirected
+Radcliffe_The Myteries of Udolphu 2_9,Radcliffe_the mysteries of Udolpho 3_2,2,undirected
+Radcliffe_The Myteries of Udolphu 2_9,Radcliffe_the mysteries of Udolpho 3_3,3,undirected
+Radcliffe_The Myteries of Udolphu 2_9,Radcliffe_The Myteries of Udolphu 2_5,5,undirected
+Radcliffe_The Myteries of Udolphu 2_9,Radcliffe_The Myteries of Udolphu 2_8,4,undirected
+Shelley_St. Ivrene_1,Shelley_St. Ivrene_2,6,undirected
+Shelley_St. Ivrene_1,Shelley_St. Ivrene_3,4,undirected
+Shelley_St. Ivrene_1,Shelley_Zastrozzi_1,2,undirected
+Shelley_St. Ivrene_1,Shelley_Zastrozzi_3,1,undirected
+Shelley_St. Ivrene_2,Lewis_The Monk_9,1,undirected
+Shelley_St. Ivrene_2,Shelley_St. Ivrene_1,6,undirected
+Shelley_St. Ivrene_2,Shelley_St. Ivrene_3,5,undirected
+Shelley_St. Ivrene_2,Shelley_Zastrozzi_1,2,undirected
+Shelley_St. Ivrene_2,Shelley_Zastrozzi_2,2,undirected
+Shelley_St. Ivrene_3,Lamb_Glenarvon 1_1,1,undirected
+Shelley_St. Ivrene_3,Shelley_St. Ivrene_1,4,undirected
+Shelley_St. Ivrene_3,Shelley_St. Ivrene_2,5,undirected
+Shelley_Zastrozzi_1,Shelley_St. Ivrene_1,2,undirected
+Shelley_Zastrozzi_1,Shelley_St. Ivrene_2,2,undirected
+Shelley_Zastrozzi_1,Shelley_Zastrozzi_2,1,undirected
+Shelley_Zastrozzi_1,Shelley_Zastrozzi_3,5,undirected
+Shelley_Zastrozzi_2,Shelley_St. Ivrene_2,2,undirected
+Shelley_Zastrozzi_2,Shelley_Zastrozzi_1,1,undirected
+Shelley_Zastrozzi_2,Shelley_Zastrozzi_3,6,undirected
+Shelley_Zastrozzi_3,Shelley_St. Ivrene_1,1,undirected
+Shelley_Zastrozzi_3,Shelley_Zastrozzi_1,5,undirected
+Shelley_Zastrozzi_3,Shelley_Zastrozzi_2,6,undirected
+Wallop_Hierogylphic Tales_1,Byron_Don Juan_8,3,undirected
+Wallop_Hierogylphic Tales_1,Byron_Don Juan_10,2,undirected
+Wallop_Hierogylphic Tales_1,Byron_Don Juan_11,1,undirected
+Wallop_Hierogylphic Tales_1,Polidori_diary_1,1,undirected
+Wallop_Hierogylphic Tales_1,Polidori_diary_2,1,undirected
+Wallop_Hierogylphic Tales_1,Polidori_diary_3,1,undirected
+Wallop_the castle of Odranto 2_1,Lamb_Glenarvon 3_4,1,undirected
+Wallop_the castle of Odranto 2_1,Wallop_the castle of Odranto 2_2,6,undirected
+Wallop_the castle of Odranto 2_1,Wallop_the castle of Odranto_1,5,undirected
+Wallop_the castle of Odranto 2_2,Lewis_The Monk_5,1,undirected
+Wallop_the castle of Odranto 2_2,Wallop_the castle of Odranto 2_1,6,undirected
+Wallop_the castle of Odranto 2_2,Wallop_the castle of Odranto_1,4,undirected
+Wallop_the castle of Odranto_1,Lewis_The Monk_4,1,undirected
+Wallop_the castle of Odranto_1,Wallop_the castle of Odranto 2_1,5,undirected
+Wallop_the castle of Odranto_1,Wallop_the castle of Odranto 2_2,4,undirected
+Woolstencraft_Falkner_1,Woolstencraft_Falkner_2,2,undirected
+Woolstencraft_Falkner_1,Woolstencraft_Falkner_4,5,undirected
+Woolstencraft_Falkner_1,Woolstencraft_Falkner_10,4,undirected
+Woolstencraft_Falkner_1,Woolstencraft_Falkner_12,2,undirected
+Woolstencraft_Falkner_2,Woolstencraft_Falkner_1,2,undirected
+Woolstencraft_Falkner_2,Woolstencraft_Falkner_3,4,undirected
+Woolstencraft_Falkner_2,Woolstencraft_Falkner_8,2,undirected
+Woolstencraft_Falkner_3,Woolstencraft_Falkner_2,4,undirected
+Woolstencraft_Falkner_3,Woolstencraft_Falkner_4,5,undirected
+Woolstencraft_Falkner_3,Woolstencraft_Falkner_5,1,undirected
+Woolstencraft_Falkner_3,Woolstencraft_Falkner_9,3,undirected
+Woolstencraft_Falkner_4,Woolstencraft_Falkner_1,5,undirected
+Woolstencraft_Falkner_4,Woolstencraft_Falkner_3,5,undirected
+Woolstencraft_Falkner_4,Woolstencraft_Falkner_5,4,undirected
+Woolstencraft_Falkner_5,Woolstencraft_Falkner_3,1,undirected
+Woolstencraft_Falkner_5,Woolstencraft_Falkner_4,4,undirected
+Woolstencraft_Falkner_5,Woolstencraft_Falkner_9,2,undirected
+Woolstencraft_Falkner_6,Woolstencraft_Falkner_7,5,undirected
+Woolstencraft_Falkner_6,Woolstencraft_Falkner_10,2,undirected
+Woolstencraft_Falkner_6,Woolstencraft_Falkner_14,1,undirected
+Woolstencraft_Falkner_7,Woolstencraft_Falkner_6,5,undirected
+Woolstencraft_Falkner_7,Woolstencraft_Falkner_10,1,undirected
+Woolstencraft_Falkner_7,Woolstencraft_Falkner_13,3,undirected
+Woolstencraft_Falkner_8,Woolstencraft_Falkner_2,2,undirected
+Woolstencraft_Falkner_8,Woolstencraft_Falkner_13,1,undirected
+Woolstencraft_Falkner_8,Woolstencraft_Falkner_14,4,undirected
+Woolstencraft_Falkner_8,Woolstencraft_Falkner_16,2,undirected
+Woolstencraft_Falkner_9,Woolstencraft_Falkner_3,3,undirected
+Woolstencraft_Falkner_9,Woolstencraft_Falkner_5,2,undirected
+Woolstencraft_Falkner_9,Woolstencraft_Falkner_11,2,undirected
+Woolstencraft_Falkner_9,Woolstencraft_Falkner_13,5,undirected
+Woolstencraft_Falkner_9,Woolstencraft_Falkner_14,6,undirected
+Woolstencraft_Falkner_9,Woolstencraft_Falkner_16,4,undirected
+Woolstencraft_Falkner_9,Woolstencraft_Falkner_18,2,undirected
+Woolstencraft_Falkner_10,Woolstencraft_Falkner_1,4,undirected
+Woolstencraft_Falkner_10,Woolstencraft_Falkner_6,2,undirected
+Woolstencraft_Falkner_10,Woolstencraft_Falkner_7,1,undirected
+Woolstencraft_Falkner_10,Woolstencraft_Falkner_11,6,undirected
+Woolstencraft_Falkner_10,Woolstencraft_Falkner_12,4,undirected
+Woolstencraft_Falkner_10,Woolstencraft_Falkner_15,1,undirected
+Woolstencraft_Falkner_10,Woolstencraft_Mathilda_2,2,undirected
+Woolstencraft_Falkner_11,Woolstencraft_Falkner_9,2,undirected
+Woolstencraft_Falkner_11,Woolstencraft_Falkner_10,6,undirected
+Woolstencraft_Falkner_11,Woolstencraft_Falkner_12,1,undirected
+Woolstencraft_Falkner_11,Woolstencraft_The last Man_6,1,undirected
+Woolstencraft_Falkner_12,Woolstencraft_Falkner_1,2,undirected
+Woolstencraft_Falkner_12,Woolstencraft_Falkner_10,4,undirected
+Woolstencraft_Falkner_12,Woolstencraft_Falkner_11,1,undirected
+Woolstencraft_Falkner_13,Woolstencraft_Falkner_7,3,undirected
+Woolstencraft_Falkner_13,Woolstencraft_Falkner_8,1,undirected
+Woolstencraft_Falkner_13,Woolstencraft_Falkner_9,5,undirected
+Woolstencraft_Falkner_13,Woolstencraft_Falkner_14,3,undirected
+Woolstencraft_Falkner_13,Woolstencraft_Falkner_16,4,undirected
+Woolstencraft_Falkner_14,Woolstencraft_Falkner_6,1,undirected
+Woolstencraft_Falkner_14,Woolstencraft_Falkner_8,4,undirected
+Woolstencraft_Falkner_14,Woolstencraft_Falkner_9,6,undirected
+Woolstencraft_Falkner_14,Woolstencraft_Falkner_13,3,undirected
+Woolstencraft_Falkner_14,Woolstencraft_Falkner_18,3,undirected
+Woolstencraft_Falkner_15,Woolstencraft_Falkner_10,1,undirected
+Woolstencraft_Falkner_15,Woolstencraft_Falkner_16,2,undirected
+Woolstencraft_Falkner_15,Woolstencraft_Falkner_17,6,undirected
+Woolstencraft_Falkner_16,Woolstencraft_Falkner_8,2,undirected
+Woolstencraft_Falkner_16,Woolstencraft_Falkner_9,4,undirected
+Woolstencraft_Falkner_16,Woolstencraft_Falkner_13,4,undirected
+Woolstencraft_Falkner_16,Woolstencraft_Falkner_15,2,undirected
+Woolstencraft_Falkner_16,Woolstencraft_Falkner_17,3,undirected
+Woolstencraft_Falkner_16,Woolstencraft_Falkner_18,1,undirected
+Woolstencraft_Falkner_17,Woolstencraft_Falkner_15,6,undirected
+Woolstencraft_Falkner_17,Woolstencraft_Falkner_16,3,undirected
+Woolstencraft_Falkner_17,Woolstencraft_Falkner_18,1,undirected
+Woolstencraft_Falkner_18,Woolstencraft_Falkner_9,2,undirected
+Woolstencraft_Falkner_18,Woolstencraft_Falkner_14,3,undirected
+Woolstencraft_Falkner_18,Woolstencraft_Falkner_16,1,undirected
+Woolstencraft_Falkner_18,Woolstencraft_Falkner_17,1,undirected
+Woolstencraft_Frankenstein_1,Woolstencraft_Frankenstein_2,6,undirected
+Woolstencraft_Frankenstein_1,Woolstencraft_Frankenstein_3,1,undirected
+Woolstencraft_Frankenstein_1,Woolstencraft_Frankenstein_5,2,undirected
+Woolstencraft_Frankenstein_1,Woolstencraft_Frankenstein_9,1,undirected
+Woolstencraft_Frankenstein_1,Woolstencraft_Mathilda_1,3,undirected
+Woolstencraft_Frankenstein_1,Woolstencraft_The last Man_1,1,undirected
+Woolstencraft_Frankenstein_1,Woolstencraft_The last Man_2,2,undirected
+Woolstencraft_Frankenstein_2,Anno_The Vamp_1,3,undirected
+Woolstencraft_Frankenstein_2,Woolstencraft_Frankenstein_1,6,undirected
+Woolstencraft_Frankenstein_2,Woolstencraft_Frankenstein_3,5,undirected
+Woolstencraft_Frankenstein_2,Woolstencraft_Frankenstein_5,3,undirected
+Woolstencraft_Frankenstein_2,Woolstencraft_Frankenstein_7,2,undirected
+Woolstencraft_Frankenstein_3,Woolstencraft_Frankenstein_1,1,undirected
+Woolstencraft_Frankenstein_3,Woolstencraft_Frankenstein_2,5,undirected
+Woolstencraft_Frankenstein_3,Woolstencraft_Frankenstein_8,2,undirected
+Woolstencraft_Frankenstein_4,Woolstencraft_Frankenstein_6,6,undirected
+Woolstencraft_Frankenstein_4,Woolstencraft_Frankenstein_7,3,undirected
+Woolstencraft_Frankenstein_4,Woolstencraft_Frankenstein_8,4,undirected
+Woolstencraft_Frankenstein_4,Woolstencraft_Frankenstein_9,5,undirected
+Woolstencraft_Frankenstein_4,Woolstencraft_Mathilda_3,1,undirected
+Woolstencraft_Frankenstein_5,Woolstencraft_Frankenstein_1,2,undirected
+Woolstencraft_Frankenstein_5,Woolstencraft_Frankenstein_2,3,undirected
+Woolstencraft_Frankenstein_5,Woolstencraft_Frankenstein_6,1,undirected
+Woolstencraft_Frankenstein_6,Woolstencraft_Frankenstein_4,6,undirected
+Woolstencraft_Frankenstein_6,Woolstencraft_Frankenstein_5,1,undirected
+Woolstencraft_Frankenstein_6,Woolstencraft_Frankenstein_8,3,undirected
+Woolstencraft_Frankenstein_6,Woolstencraft_Frankenstein_9,4,undirected
+Woolstencraft_Frankenstein_7,Woolstencraft_Frankenstein_2,2,undirected
+Woolstencraft_Frankenstein_7,Woolstencraft_Frankenstein_4,3,undirected
+Woolstencraft_Frankenstein_7,Woolstencraft_Frankenstein_8,3,undirected
+Woolstencraft_Frankenstein_8,Woolstencraft_Frankenstein_3,2,undirected
+Woolstencraft_Frankenstein_8,Woolstencraft_Frankenstein_4,4,undirected
+Woolstencraft_Frankenstein_8,Woolstencraft_Frankenstein_6,3,undirected
+Woolstencraft_Frankenstein_8,Woolstencraft_Frankenstein_7,3,undirected
+Woolstencraft_Frankenstein_9,Woolstencraft_Frankenstein_1,1,undirected
+Woolstencraft_Frankenstein_9,Woolstencraft_Frankenstein_4,5,undirected
+Woolstencraft_Frankenstein_9,Woolstencraft_Frankenstein_6,4,undirected
+Woolstencraft_Mathilda_1,Woolstencraft_Frankenstein_1,3,undirected
+Woolstencraft_Mathilda_1,Woolstencraft_Mathilda_2,1,undirected
+Woolstencraft_Mathilda_1,Woolstencraft_Mathilda_3,5,undirected
+Woolstencraft_Mathilda_1,Woolstencraft_The last Man_2,1,undirected
+Woolstencraft_Mathilda_2,Woolstencraft_Falkner_10,2,undirected
+Woolstencraft_Mathilda_2,Woolstencraft_Mathilda_1,1,undirected
+Woolstencraft_Mathilda_2,Woolstencraft_Mathilda_3,5,undirected
+Woolstencraft_Mathilda_3,Woolstencraft_Frankenstein_4,1,undirected
+Woolstencraft_Mathilda_3,Woolstencraft_Mathilda_1,5,undirected
+Woolstencraft_Mathilda_3,Woolstencraft_Mathilda_2,5,undirected
+Woolstencraft_Prospertine und Midas_1,Byron_Childe Harold's Pilgrimage_1,1,undirected
+Woolstencraft_Prospertine und Midas_1,Keats_Endymion_Lamia_1,3,undirected
+Woolstencraft_Prospertine und Midas_1,Keats_Endymion_Lamia_4,2,undirected
+Woolstencraft_The last Man_1,Anno_The Vamp_1,2,undirected
+Woolstencraft_The last Man_1,Woolstencraft_Frankenstein_1,1,undirected
+Woolstencraft_The last Man_1,Woolstencraft_The last Man_2,6,undirected
+Woolstencraft_The last Man_1,Woolstencraft_The last Man_4,1,undirected
+Woolstencraft_The last Man_1,Woolstencraft_The last Man_8,2,undirected
+Woolstencraft_The last Man_1,Woolstencraft_The last Man_12,2,undirected
+Woolstencraft_The last Man_1,Woolstencraft_The last Man_13,1,undirected
+Woolstencraft_The last Man_2,Woolstencraft_Frankenstein_1,2,undirected
+Woolstencraft_The last Man_2,Woolstencraft_Mathilda_1,1,undirected
+Woolstencraft_The last Man_2,Woolstencraft_The last Man_1,6,undirected
+Woolstencraft_The last Man_2,Woolstencraft_The last Man_5,1,undirected
+Woolstencraft_The last Man_2,Woolstencraft_The last Man_6,3,undirected
+Woolstencraft_The last Man_2,Woolstencraft_The last Man_7,2,undirected
+Woolstencraft_The last Man_3,Woolstencraft_The last Man_4,5,undirected
+Woolstencraft_The last Man_3,Woolstencraft_The last Man_6,3,undirected
+Woolstencraft_The last Man_3,Woolstencraft_The last Man_7,1,undirected
+Woolstencraft_The last Man_3,Woolstencraft_The last Man_9,1,undirected
+Woolstencraft_The last Man_4,Woolstencraft_The last Man_1,1,undirected
+Woolstencraft_The last Man_4,Woolstencraft_The last Man_3,5,undirected
+Woolstencraft_The last Man_4,Woolstencraft_The last Man_10,2,undirected
+Woolstencraft_The last Man_4,Woolstencraft_The last Man_15,3,undirected
+Woolstencraft_The last Man_4,Woolstencraft_The last Man_16,2,undirected
+Woolstencraft_The last Man_5,Woolstencraft_The last Man_2,1,undirected
+Woolstencraft_The last Man_5,Woolstencraft_The last Man_6,5,undirected
+Woolstencraft_The last Man_5,Woolstencraft_The last Man_7,4,undirected
+Woolstencraft_The last Man_6,Woolstencraft_Falkner_11,1,undirected
+Woolstencraft_The last Man_6,Woolstencraft_The last Man_2,3,undirected
+Woolstencraft_The last Man_6,Woolstencraft_The last Man_3,3,undirected
+Woolstencraft_The last Man_6,Woolstencraft_The last Man_5,5,undirected
+Woolstencraft_The last Man_6,Woolstencraft_The last Man_7,6,undirected
+Woolstencraft_The last Man_7,Woolstencraft_The last Man_2,2,undirected
+Woolstencraft_The last Man_7,Woolstencraft_The last Man_3,1,undirected
+Woolstencraft_The last Man_7,Woolstencraft_The last Man_5,4,undirected
+Woolstencraft_The last Man_7,Woolstencraft_The last Man_6,6,undirected
+Woolstencraft_The last Man_8,Woolstencraft_The last Man_1,2,undirected
+Woolstencraft_The last Man_8,Woolstencraft_The last Man_9,6,undirected
+Woolstencraft_The last Man_8,Woolstencraft_The last Man_18,3,undirected
+Woolstencraft_The last Man_8,Woolstencraft_The last Man_20,1,undirected
+Woolstencraft_The last Man_9,Woolstencraft_The last Man_3,1,undirected
+Woolstencraft_The last Man_9,Woolstencraft_The last Man_8,6,undirected
+Woolstencraft_The last Man_9,Woolstencraft_The last Man_12,2,undirected
+Woolstencraft_The last Man_10,Woolstencraft_The last Man_4,2,undirected
+Woolstencraft_The last Man_10,Woolstencraft_The last Man_12,3,undirected
+Woolstencraft_The last Man_10,Woolstencraft_The last Man_17,4,undirected
+Woolstencraft_The last Man_10,Woolstencraft_The last Man_18,2,undirected
+Woolstencraft_The last Man_10,Woolstencraft_The last Man_19,5,undirected
+Woolstencraft_The last Man_10,Woolstencraft_The last Man_20,2,undirected
+Woolstencraft_The last Man_11,Woolstencraft_The last Man_12,6,undirected
+Woolstencraft_The last Man_11,Woolstencraft_The last Man_14,4,undirected
+Woolstencraft_The last Man_11,Woolstencraft_The last Man_18,1,undirected
+Woolstencraft_The last Man_12,Woolstencraft_The last Man_1,2,undirected
+Woolstencraft_The last Man_12,Woolstencraft_The last Man_9,2,undirected
+Woolstencraft_The last Man_12,Woolstencraft_The last Man_10,3,undirected
+Woolstencraft_The last Man_12,Woolstencraft_The last Man_11,6,undirected
+Woolstencraft_The last Man_12,Woolstencraft_The last Man_13,2,undirected
+Woolstencraft_The last Man_12,Woolstencraft_The last Man_14,4,undirected
+Woolstencraft_The last Man_12,Woolstencraft_The last Man_16,3,undirected
+Woolstencraft_The last Man_12,Woolstencraft_The last Man_18,5,undirected
+Woolstencraft_The last Man_13,Woolstencraft_The last Man_1,1,undirected
+Woolstencraft_The last Man_13,Woolstencraft_The last Man_12,2,undirected
+Woolstencraft_The last Man_13,Woolstencraft_The last Man_14,4,undirected
+Woolstencraft_The last Man_13,Woolstencraft_The last Man_15,1,undirected
+Woolstencraft_The last Man_14,Woolstencraft_The last Man_11,4,undirected
+Woolstencraft_The last Man_14,Woolstencraft_The last Man_12,4,undirected
+Woolstencraft_The last Man_14,Woolstencraft_The last Man_13,4,undirected
+Woolstencraft_The last Man_14,Woolstencraft_The last Man_17,2,undirected
+Woolstencraft_The last Man_15,Woolstencraft_The last Man_4,3,undirected
+Woolstencraft_The last Man_15,Woolstencraft_The last Man_13,1,undirected
+Woolstencraft_The last Man_15,Woolstencraft_The last Man_16,3,undirected
+Woolstencraft_The last Man_16,Woolstencraft_The last Man_4,2,undirected
+Woolstencraft_The last Man_16,Woolstencraft_The last Man_12,3,undirected
+Woolstencraft_The last Man_16,Woolstencraft_The last Man_15,3,undirected
+Woolstencraft_The last Man_17,Woolstencraft_The last Man_10,4,undirected
+Woolstencraft_The last Man_17,Woolstencraft_The last Man_14,2,undirected
+Woolstencraft_The last Man_17,Woolstencraft_The last Man_18,1,undirected
+Woolstencraft_The last Man_18,Woolstencraft_The last Man_8,3,undirected
+Woolstencraft_The last Man_18,Woolstencraft_The last Man_10,2,undirected
+Woolstencraft_The last Man_18,Woolstencraft_The last Man_11,1,undirected
+Woolstencraft_The last Man_18,Woolstencraft_The last Man_12,5,undirected
+Woolstencraft_The last Man_18,Woolstencraft_The last Man_17,1,undirected
+Woolstencraft_The last Man_18,Woolstencraft_The last Man_19,1,undirected
+Woolstencraft_The last Man_19,Woolstencraft_The last Man_10,5,undirected
+Woolstencraft_The last Man_19,Woolstencraft_The last Man_18,1,undirected
+Woolstencraft_The last Man_19,Woolstencraft_The last Man_20,5,undirected
+Woolstencraft_The last Man_20,Woolstencraft_The last Man_8,1,undirected
+Woolstencraft_The last Man_20,Woolstencraft_The last Man_10,2,undirected
+Woolstencraft_The last Man_20,Woolstencraft_The last Man_19,5,undirected
