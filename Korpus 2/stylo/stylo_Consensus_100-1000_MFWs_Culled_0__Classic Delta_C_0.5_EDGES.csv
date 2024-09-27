@@ -1,0 +1,209 @@
+Source,Target,Weight,Type
+Anno_The Vamp_1,Byron_Don Juan_3,4,undirected
+Anno_The Vamp_1,Byron_Don Juan_4,2,undirected
+Anno_The Vamp_1,Byron_Don Juan_8,5,undirected
+Anno_The Vamp_1,Byron_Don Juan_9,9,undirected
+Anno_The Vamp_1,Byron_Don Juan_15,1,undirected
+Anno_The Vamp_1,Byron_Mazzepa_Dante_Beppo_1,1,undirected
+Anno_The Vamp_1,Polidori_diary_1,13,undirected
+Anno_The Vamp_1,Polidori_diary_2,9,undirected
+Anno_The Vamp_1,Polidori_diary_3,37,undirected
+Byron_Childe Harold's Pilgrimage_1,Byron_Childe Harold's Pilgrimage_2,60,undirected
+Byron_Childe Harold's Pilgrimage_1,Byron_Childe Harold's Pilgrimage_3,17,undirected
+Byron_Childe Harold's Pilgrimage_1,Byron_Childe Harold's Pilgrimage_4,14,undirected
+Byron_Childe Harold's Pilgrimage_1,Byron_Mazzepa_Dante_Beppo_1,2,undirected
+Byron_Childe Harold's Pilgrimage_1,Polidori_The fallen Angel_1,11,undirected
+Byron_Childe Harold's Pilgrimage_2,Byron_Childe Harold's Pilgrimage_1,60,undirected
+Byron_Childe Harold's Pilgrimage_2,Byron_Childe Harold's Pilgrimage_3,25,undirected
+Byron_Childe Harold's Pilgrimage_2,Byron_Childe Harold's Pilgrimage_4,34,undirected
+Byron_Childe Harold's Pilgrimage_2,Byron_Mazzepa_Dante_Beppo_1,17,undirected
+Byron_Childe Harold's Pilgrimage_2,Polidori_The fallen Angel_1,18,undirected
+Byron_Childe Harold's Pilgrimage_3,Byron_Childe Harold's Pilgrimage_1,17,undirected
+Byron_Childe Harold's Pilgrimage_3,Byron_Childe Harold's Pilgrimage_2,25,undirected
+Byron_Childe Harold's Pilgrimage_3,Byron_Childe Harold's Pilgrimage_4,60,undirected
+Byron_Childe Harold's Pilgrimage_3,Byron_Mazzepa_Dante_Beppo_1,30,undirected
+Byron_Childe Harold's Pilgrimage_3,Byron_Mazzepa_Dante_Beppo_2,1,undirected
+Byron_Childe Harold's Pilgrimage_3,Polidori_The fallen Angel_1,9,undirected
+Byron_Childe Harold's Pilgrimage_4,Byron_Childe Harold's Pilgrimage_1,14,undirected
+Byron_Childe Harold's Pilgrimage_4,Byron_Childe Harold's Pilgrimage_2,34,undirected
+Byron_Childe Harold's Pilgrimage_4,Byron_Childe Harold's Pilgrimage_3,60,undirected
+Byron_Childe Harold's Pilgrimage_4,Byron_Mazzepa_Dante_Beppo_1,36,undirected
+Byron_Childe Harold's Pilgrimage_4,Byron_Mazzepa_Dante_Beppo_2,1,undirected
+Byron_Childe Harold's Pilgrimage_4,Polidori_The fallen Angel_1,22,undirected
+Byron_Don Juan_1,Byron_Don Juan_2,39,undirected
+Byron_Don Juan_1,Byron_Don Juan_4,2,undirected
+Byron_Don Juan_1,Byron_Don Juan_7,9,undirected
+Byron_Don Juan_1,Byron_Don Juan_11,4,undirected
+Byron_Don Juan_1,Byron_Don Juan_12,6,undirected
+Byron_Don Juan_1,Byron_Don Juan_14,38,undirected
+Byron_Don Juan_1,Byron_Mazzepa_Dante_Beppo_2,15,undirected
+Byron_Don Juan_2,Byron_Don Juan_1,39,undirected
+Byron_Don Juan_2,Byron_Don Juan_6,11,undirected
+Byron_Don Juan_2,Byron_Don Juan_10,5,undirected
+Byron_Don Juan_2,Byron_Don Juan_11,11,undirected
+Byron_Don Juan_2,Byron_Don Juan_12,4,undirected
+Byron_Don Juan_3,Anno_The Vamp_1,4,undirected
+Byron_Don Juan_3,Byron_Don Juan_4,27,undirected
+Byron_Don Juan_3,Byron_Don Juan_5,30,undirected
+Byron_Don Juan_3,Byron_Don Juan_6,3,undirected
+Byron_Don Juan_3,Byron_Don Juan_7,1,undirected
+Byron_Don Juan_3,Byron_Don Juan_8,4,undirected
+Byron_Don Juan_3,Byron_Don Juan_9,3,undirected
+Byron_Don Juan_3,Polidori_diary_3,1,undirected
+Byron_Don Juan_4,Anno_The Vamp_1,2,undirected
+Byron_Don Juan_4,Byron_Don Juan_1,2,undirected
+Byron_Don Juan_4,Byron_Don Juan_3,27,undirected
+Byron_Don Juan_4,Byron_Don Juan_5,60,undirected
+Byron_Don Juan_4,Byron_Don Juan_6,2,undirected
+Byron_Don Juan_4,Byron_Don Juan_7,8,undirected
+Byron_Don Juan_4,Byron_Don Juan_8,7,undirected
+Byron_Don Juan_4,Byron_Don Juan_9,2,undirected
+Byron_Don Juan_4,Byron_Don Juan_13,1,undirected
+Byron_Don Juan_4,Byron_Mazzepa_Dante_Beppo_2,7,undirected
+Byron_Don Juan_5,Byron_Don Juan_3,30,undirected
+Byron_Don Juan_5,Byron_Don Juan_4,60,undirected
+Byron_Don Juan_5,Byron_Don Juan_6,3,undirected
+Byron_Don Juan_5,Byron_Don Juan_7,9,undirected
+Byron_Don Juan_5,Byron_Don Juan_8,11,undirected
+Byron_Don Juan_5,Byron_Don Juan_9,1,undirected
+Byron_Don Juan_5,Byron_Mazzepa_Dante_Beppo_1,2,undirected
+Byron_Don Juan_5,Byron_Mazzepa_Dante_Beppo_2,7,undirected
+Byron_Don Juan_6,Byron_Don Juan_2,11,undirected
+Byron_Don Juan_6,Byron_Don Juan_3,3,undirected
+Byron_Don Juan_6,Byron_Don Juan_4,2,undirected
+Byron_Don Juan_6,Byron_Don Juan_5,3,undirected
+Byron_Don Juan_6,Byron_Don Juan_7,1,undirected
+Byron_Don Juan_6,Byron_Don Juan_8,19,undirected
+Byron_Don Juan_6,Byron_Don Juan_9,12,undirected
+Byron_Don Juan_6,Byron_Don Juan_11,30,undirected
+Byron_Don Juan_6,Byron_Don Juan_13,16,undirected
+Byron_Don Juan_6,Byron_Don Juan_15,11,undirected
+Byron_Don Juan_6,Byron_Mazzepa_Dante_Beppo_2,1,undirected
+Byron_Don Juan_6,Polidori_diary_1,2,undirected
+Byron_Don Juan_7,Byron_Don Juan_1,9,undirected
+Byron_Don Juan_7,Byron_Don Juan_3,1,undirected
+Byron_Don Juan_7,Byron_Don Juan_4,8,undirected
+Byron_Don Juan_7,Byron_Don Juan_5,9,undirected
+Byron_Don Juan_7,Byron_Don Juan_6,1,undirected
+Byron_Don Juan_7,Byron_Don Juan_8,55,undirected
+Byron_Don Juan_7,Byron_Don Juan_9,2,undirected
+Byron_Don Juan_7,Byron_Don Juan_10,1,undirected
+Byron_Don Juan_7,Byron_Don Juan_11,9,undirected
+Byron_Don Juan_7,Byron_Don Juan_14,23,undirected
+Byron_Don Juan_8,Anno_The Vamp_1,5,undirected
+Byron_Don Juan_8,Byron_Don Juan_3,4,undirected
+Byron_Don Juan_8,Byron_Don Juan_4,7,undirected
+Byron_Don Juan_8,Byron_Don Juan_5,11,undirected
+Byron_Don Juan_8,Byron_Don Juan_6,19,undirected
+Byron_Don Juan_8,Byron_Don Juan_7,55,undirected
+Byron_Don Juan_8,Byron_Don Juan_9,20,undirected
+Byron_Don Juan_8,Byron_Don Juan_10,5,undirected
+Byron_Don Juan_8,Byron_Don Juan_11,15,undirected
+Byron_Don Juan_8,Byron_Don Juan_14,1,undirected
+Byron_Don Juan_8,Byron_Don Juan_15,4,undirected
+Byron_Don Juan_8,Polidori_diary_2,1,undirected
+Byron_Don Juan_8,Polidori_diary_3,1,undirected
+Byron_Don Juan_9,Anno_The Vamp_1,9,undirected
+Byron_Don Juan_9,Byron_Don Juan_3,3,undirected
+Byron_Don Juan_9,Byron_Don Juan_4,2,undirected
+Byron_Don Juan_9,Byron_Don Juan_5,1,undirected
+Byron_Don Juan_9,Byron_Don Juan_6,12,undirected
+Byron_Don Juan_9,Byron_Don Juan_7,2,undirected
+Byron_Don Juan_9,Byron_Don Juan_8,20,undirected
+Byron_Don Juan_9,Byron_Don Juan_10,19,undirected
+Byron_Don Juan_9,Byron_Don Juan_11,22,undirected
+Byron_Don Juan_9,Byron_Don Juan_13,7,undirected
+Byron_Don Juan_9,Polidori_diary_2,1,undirected
+Byron_Don Juan_10,Byron_Don Juan_2,5,undirected
+Byron_Don Juan_10,Byron_Don Juan_7,1,undirected
+Byron_Don Juan_10,Byron_Don Juan_8,5,undirected
+Byron_Don Juan_10,Byron_Don Juan_9,19,undirected
+Byron_Don Juan_10,Byron_Don Juan_11,49,undirected
+Byron_Don Juan_10,Byron_Don Juan_12,26,undirected
+Byron_Don Juan_10,Byron_Don Juan_13,8,undirected
+Byron_Don Juan_10,Byron_Don Juan_14,10,undirected
+Byron_Don Juan_10,Byron_Don Juan_15,1,undirected
+Byron_Don Juan_10,Byron_Mazzepa_Dante_Beppo_2,7,undirected
+Byron_Don Juan_11,Byron_Don Juan_1,4,undirected
+Byron_Don Juan_11,Byron_Don Juan_2,11,undirected
+Byron_Don Juan_11,Byron_Don Juan_6,30,undirected
+Byron_Don Juan_11,Byron_Don Juan_7,9,undirected
+Byron_Don Juan_11,Byron_Don Juan_8,15,undirected
+Byron_Don Juan_11,Byron_Don Juan_9,22,undirected
+Byron_Don Juan_11,Byron_Don Juan_10,49,undirected
+Byron_Don Juan_11,Byron_Don Juan_12,7,undirected
+Byron_Don Juan_11,Byron_Don Juan_13,27,undirected
+Byron_Don Juan_11,Byron_Don Juan_14,1,undirected
+Byron_Don Juan_11,Byron_Don Juan_15,5,undirected
+Byron_Don Juan_11,Byron_Mazzepa_Dante_Beppo_2,18,undirected
+Byron_Don Juan_12,Byron_Don Juan_1,6,undirected
+Byron_Don Juan_12,Byron_Don Juan_2,4,undirected
+Byron_Don Juan_12,Byron_Don Juan_10,26,undirected
+Byron_Don Juan_12,Byron_Don Juan_11,7,undirected
+Byron_Don Juan_12,Byron_Don Juan_13,28,undirected
+Byron_Don Juan_12,Byron_Don Juan_14,17,undirected
+Byron_Don Juan_13,Byron_Don Juan_4,1,undirected
+Byron_Don Juan_13,Byron_Don Juan_6,16,undirected
+Byron_Don Juan_13,Byron_Don Juan_9,7,undirected
+Byron_Don Juan_13,Byron_Don Juan_10,8,undirected
+Byron_Don Juan_13,Byron_Don Juan_11,27,undirected
+Byron_Don Juan_13,Byron_Don Juan_12,28,undirected
+Byron_Don Juan_13,Byron_Don Juan_14,52,undirected
+Byron_Don Juan_13,Byron_Don Juan_15,47,undirected
+Byron_Don Juan_13,Byron_Mazzepa_Dante_Beppo_2,12,undirected
+Byron_Don Juan_13,Polidori_diary_1,2,undirected
+Byron_Don Juan_13,Polidori_diary_2,1,undirected
+Byron_Don Juan_14,Byron_Don Juan_1,38,undirected
+Byron_Don Juan_14,Byron_Don Juan_7,23,undirected
+Byron_Don Juan_14,Byron_Don Juan_8,1,undirected
+Byron_Don Juan_14,Byron_Don Juan_10,10,undirected
+Byron_Don Juan_14,Byron_Don Juan_11,1,undirected
+Byron_Don Juan_14,Byron_Don Juan_12,17,undirected
+Byron_Don Juan_14,Byron_Don Juan_13,52,undirected
+Byron_Don Juan_14,Byron_Don Juan_15,38,undirected
+Byron_Don Juan_14,Byron_Mazzepa_Dante_Beppo_2,4,undirected
+Byron_Don Juan_15,Anno_The Vamp_1,1,undirected
+Byron_Don Juan_15,Byron_Don Juan_6,11,undirected
+Byron_Don Juan_15,Byron_Don Juan_8,4,undirected
+Byron_Don Juan_15,Byron_Don Juan_10,1,undirected
+Byron_Don Juan_15,Byron_Don Juan_11,5,undirected
+Byron_Don Juan_15,Byron_Don Juan_13,47,undirected
+Byron_Don Juan_15,Byron_Don Juan_14,38,undirected
+Byron_Mazzepa_Dante_Beppo_1,Anno_The Vamp_1,1,undirected
+Byron_Mazzepa_Dante_Beppo_1,Byron_Childe Harold's Pilgrimage_1,2,undirected
+Byron_Mazzepa_Dante_Beppo_1,Byron_Childe Harold's Pilgrimage_2,17,undirected
+Byron_Mazzepa_Dante_Beppo_1,Byron_Childe Harold's Pilgrimage_3,30,undirected
+Byron_Mazzepa_Dante_Beppo_1,Byron_Childe Harold's Pilgrimage_4,36,undirected
+Byron_Mazzepa_Dante_Beppo_1,Byron_Don Juan_5,2,undirected
+Byron_Mazzepa_Dante_Beppo_1,Byron_Mazzepa_Dante_Beppo_2,1,undirected
+Byron_Mazzepa_Dante_Beppo_2,Byron_Childe Harold's Pilgrimage_3,1,undirected
+Byron_Mazzepa_Dante_Beppo_2,Byron_Childe Harold's Pilgrimage_4,1,undirected
+Byron_Mazzepa_Dante_Beppo_2,Byron_Don Juan_1,15,undirected
+Byron_Mazzepa_Dante_Beppo_2,Byron_Don Juan_4,7,undirected
+Byron_Mazzepa_Dante_Beppo_2,Byron_Don Juan_5,7,undirected
+Byron_Mazzepa_Dante_Beppo_2,Byron_Don Juan_6,1,undirected
+Byron_Mazzepa_Dante_Beppo_2,Byron_Don Juan_10,7,undirected
+Byron_Mazzepa_Dante_Beppo_2,Byron_Don Juan_11,18,undirected
+Byron_Mazzepa_Dante_Beppo_2,Byron_Don Juan_13,12,undirected
+Byron_Mazzepa_Dante_Beppo_2,Byron_Don Juan_14,4,undirected
+Byron_Mazzepa_Dante_Beppo_2,Byron_Mazzepa_Dante_Beppo_1,1,undirected
+Polidori_diary_1,Anno_The Vamp_1,13,undirected
+Polidori_diary_1,Byron_Don Juan_6,2,undirected
+Polidori_diary_1,Byron_Don Juan_13,2,undirected
+Polidori_diary_1,Polidori_diary_2,50,undirected
+Polidori_diary_1,Polidori_diary_3,40,undirected
+Polidori_diary_2,Anno_The Vamp_1,9,undirected
+Polidori_diary_2,Byron_Don Juan_8,1,undirected
+Polidori_diary_2,Byron_Don Juan_9,1,undirected
+Polidori_diary_2,Byron_Don Juan_13,1,undirected
+Polidori_diary_2,Polidori_diary_1,50,undirected
+Polidori_diary_2,Polidori_diary_3,60,undirected
+Polidori_diary_3,Anno_The Vamp_1,37,undirected
+Polidori_diary_3,Byron_Don Juan_3,1,undirected
+Polidori_diary_3,Byron_Don Juan_8,1,undirected
+Polidori_diary_3,Polidori_diary_1,40,undirected
+Polidori_diary_3,Polidori_diary_2,60,undirected
+Polidori_The fallen Angel_1,Byron_Childe Harold's Pilgrimage_1,11,undirected
+Polidori_The fallen Angel_1,Byron_Childe Harold's Pilgrimage_2,18,undirected
+Polidori_The fallen Angel_1,Byron_Childe Harold's Pilgrimage_3,9,undirected
+Polidori_The fallen Angel_1,Byron_Childe Harold's Pilgrimage_4,22,undirected
